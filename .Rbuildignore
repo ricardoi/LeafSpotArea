@@ -9,3 +9,5 @@
 macro.txt
 figs
 build.rmd
+^.*\.Rproj$
+^\.Rproj\.user$
