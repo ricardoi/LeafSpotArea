@@ -2,7 +2,7 @@
 [![Downloads](http://cranlogs.r-pkg.org/badges/grand-total/LeafArea?color=blue)](http://cran.rstudio.com/package=LeafAreAre)
 
 #### Note:
-This is a modification of the ORIGINAL code developed by Masatochi Katabuchi - all contributions and kudos are to him!
+This is a modification of the ORIGINAL code developed by Masatoshi Katabuchi - all contributions and kudos are to him!
 #####
 Please install ImageJ from [http://imagej.nih.gov/ij/](url). ImageJ2 at
 [http://imagej.net](url) is not supported.
