@@ -7,6 +7,7 @@
 #' If ImageJ fails to recognize leaf images, users can manually guide the image analysis for particular images through ImageJ GUI (See the ImageJ user guide 30.1 Measure...[m], \url{http://imagej.nih.gov/ij/docs/guide/user-guide.pdf}). The results for these manually-analyzed images will still be handled by the file management function \code{\link{resmerge.ij}}.
 #'
 #' @author \strong{Maintainer}: Masatoshi Katabuchi \email{mattocci27@gmail.com}
+#' @branch \strong{Modificator}: Ricardo I. Alcala Briseno \email{ricardo.alcalabriseno@oregonstate.edu}
 #' @references Rasband, W.S., ImageJ, U. S. National Institutes of Health, Bethesda, Maryland, USA,  \url{http://imagej.nih.gov/ij/}, 1997-2014.
 #' @references Schneider, C.A., Rasband, W.S., Eliceiri, K.W. "NIH Image to ImageJ: 25 years of image analysis". Nature Methods 9, 671-675, 2012.
 #' @references Abramoff, M.D., Magalhaes, P.J., Ram, S.J. "Image Processing with ImageJ".
