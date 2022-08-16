@@ -1,5 +1,5 @@
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/LeafArea)](http://cran.r-project.org/package=LeafArea)
-[![Downloads](http://cranlogs.r-pkg.org/badges/grand-total/LeafArea?color=blue)](http://cran.rstudio.com/package=LeafAreAre)
+[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/LeafAreAre)](http://cran.r-project.org/package=LeafArea)
+[![Downloads](http://cranlogs.r-pkg.org/badges/grand-total/LeafAreAre?color=blue)](http://cran.rstudio.com/package=LeafAreAre)
 
 #### Note:
 This is a modification of the ORIGINAL code developed by Masatoshi Katabuchi - all contributions and kudos are to him!
