@@ -94,7 +94,7 @@ A list object of data frames of area (cm<sup>2</sup>) and perimeter (cm) of each
 
 ```` r
 ex.dir <- eximg()
-run.ij(set.directory = ex.dir, log = T)
+run.ij(set.directory = ex.dir, leaf = "spot")
 
 #> $summary
 #>   sample total.leaf.area perimeter
