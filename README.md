@@ -1,7 +1,9 @@
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/LeafArea)](http://cran.r-project.org/package=LeafArea)
- [![Downloads](http://cranlogs.r-pkg.org/badges/grand-total/LeafArea?color=blue)](http://cran.rstudio.com/package=LeafArea)
+###[![Downloads](http://cranlogs.r-pkg.org/badges/grand-total/LeafArea?color=blue)](http://cran.rstudio.com/package=LeafArea)
 
 #### Note:
+This is a modification of the ORIGINAL code developed by Masatochi Katabuchi - all contributions and kudos are to him!
+#####
 Please install ImageJ from [http://imagej.nih.gov/ij/](url). ImageJ2 at
 [http://imagej.net](url) is not supported.
 
