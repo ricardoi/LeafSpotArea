@@ -1,5 +1,5 @@
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/LeafArea)](http://cran.r-project.org/package=LeafArea)
-###[![Downloads](http://cranlogs.r-pkg.org/badges/grand-total/LeafArea?color=blue)](http://cran.rstudio.com/package=LeafArea)
+[![Downloads](http://cranlogs.r-pkg.org/badges/grand-total/LeafArea?color=blue)](http://cran.rstudio.com/package=LeafAreAre)
 
 #### Note:
 This is a modification of the ORIGINAL code developed by Masatochi Katabuchi - all contributions and kudos are to him!
@@ -25,7 +25,7 @@ From within R (>= 3.0.0), you can install:
 * the latest development version from github with
     ````r
     # install.packages("devtools")
-    devtools::install_github("mattocci27/LeafArea")
+    devtools::install_github("ricardoi_/LeafSpotArea") ### in development
     ````
 The package LeafArea requires ImageJ software, which is available from http://imagej.nih.gov/ij/. Details on how to install ImageJ on Linux, Mac OS X and Windows are available at http://imagej.nih.gov/ij/docs/install/. For Mac, the default path to ImageJ is “/Applications/ImageJ.app”. For Windows, "C:/Program Files/ImageJ. Otherwise, you need to specify the path to ImageJ to use LeafArea in R (see 3.1 Setting path to ImageJ). Note that in Linux system, ImageJ should be installed from the above URL instead of via the command lines. Java is also required, which is available at https://java.com/en/.
 
